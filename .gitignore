@@ -8,7 +8,3 @@ output/images/*
 !output/images/.gitkeep
 output/gifs/*
 !output/gifs/.gitkeep
-
-# Python-generated files.
-__pycache__/
-*.py[cod]
